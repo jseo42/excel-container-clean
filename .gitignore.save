@@ -1,0 +1,29 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Large data files (if applicable)
+*.csv
+*.json
+*.xlsx
+
+# Git-specific
+.git/
+
+# Ignore macOS system files
+.DS_Store
+
